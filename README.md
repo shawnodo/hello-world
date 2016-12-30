@@ -1,3 +1,3 @@
 # hello-world
-Right now a test, but in the future something more
-this is for training.
+Right now a test, but in the future something more.
+This is for training.
